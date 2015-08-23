@@ -1,0 +1,67 @@
+#summary How to create new levels and modify existing ones.
+#labels Featured,Phase-Support
+
+= Introduction =
+
+If you've been playing Zwiel at all, you'll have noticed that there are a few levels that you cycle through. And, if you're more inquisitive, you'll notice that in the same folder as the application, there is a folder called "Worlds", and inside that folder is another one called "Terra". And therein lies treasure, so to speak. It contains some text files and XML files. If you don't know what I'm talking about, don't worry! All will be made clear.
+
+
+= Text Files =
+You'll notice that inside the text files, there is, weirdly enough, text. The first line has something along the lines of "Terra/[level name]", and the rest of it just looks like rectangle-shaped gibberish. So, the first line is the location of the level file the player will be taken to upon reaching the exit of this level. It is formatted as "[World Name]/[Level Name]".
+
+The rest of the file is the layout of the level. You'll notice that most of the file is '.'. The game translates that '.' to mean that there's nothing there in that location but empty air. In essence, each character in that rectangle means something to the game.
+
+This rectangle has to be at least 20 characters wide and 15 characters tall. It can be larger, but anything smaller will cause the game to crash.
+
+So, how do you learn the language of the game?
+
+CHARACTER --> DOES STUFF
+
+1 --> Player start location. You can have as many of these as you want, as long as you want at least 1, but the player will start on only one of them, at random.
+
+X --> Level exit. Each level must have at least 1, but they all lead to the same level.
+
+. --> Space. Nothing, nada. You need these to flesh out your rectangle.
+
+# --> Impassable block; the player can stand on it, but not jump through it
+
+~ --> Floating platform; the player can stand on it and jump through it
+
+: --> Trick tile; it looks like the floating platform, but the player can't stand on it.
+
+- --> Platform; the player can stand on it and jump through it
+
+G --> A gem; it gives the player 25 points for collecting it
+
+T --> Time bonus; it gives the player 15 seconds of additional time
+
+@ --> Poisoned health pack
+
+( --> Weak health pack
+
++ --> The default health pack
+
+) --> Strong health pack
+
+= --> Ultimate health pack
+
+* --> Static trap
+
+> --> Right-facing shooting trap
+
+< --> Left-facing shooting trap
+
+^ --> Rising trap
+
+v --> Falling trap
+
+A --> Barbarian enemy
+
+B --> Pygmy enemy
+
+C --> Zombie enemy
+
+D --> Skeleton enemy
+
+
+All right; good luck creating and modifying levels!

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<traps>
+  <trap type="Static" damage="20" tint="gray"/>
+  <trap type="Rising" damage="10" tint="brown"/>
+  <trap type="Falling" damage="10" tint="brown"/>
+  <trap type="Shooting" damage="20" tint="blue"/>
+</traps>

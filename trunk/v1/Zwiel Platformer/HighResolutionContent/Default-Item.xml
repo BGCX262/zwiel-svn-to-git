@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <gem type="default" points="25" tint="yellow"/>
+  <timeBonus type="default" points="100" tint="white" bonus="15000"/>
+  <healthPack type="default" points="0" tint="red" heal="25" maxHeal="0"/>
+  <healthPack type="weak" points="0" tint="green" heal="10" maxHeal="0"/>
+  <healthPack type="medium" points="0" tint="yellow" heal="25" maxHeal="10"/>
+  <healthPack type="strong" points="0" tint="orange" heal="25" maxHeal="25"/>
+  <healthPack type="poison" points="0" tint="purple" heal="-25" maxHeal="0"/>
+  <healthPack type="ultimate" points="0" tint="brown" heal="100%" maxHeal="50%"/>
+</items>

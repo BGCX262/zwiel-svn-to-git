@@ -1,0 +1,17 @@
+Content\Sounds\ExitReached.xnb
+Content\Sounds\GemCollected.xnb
+Content\Sounds\Music.xnb
+Content\Sounds\Music.wma
+Content\Sounds\PlayerFall.xnb
+Content\Sounds\PlayerJump.xnb
+Content\Sounds\PlayerKilled.xnb
+Content\Sounds\MonsterKilled.xnb
+Content\Sounds\Heal.xnb
+Content\Sounds\Hurt\1.xnb
+Content\Sounds\Hurt\3.xnb
+Content\Sounds\Hurt\4.xnb
+Content\Sounds\Hurt\5.xnb
+Content\Sounds\Hurt\6.xnb
+Content\Sounds\Hurt\0.xnb
+Content\Sounds\Hurt\7.xnb
+Content\Sounds\TimeBonusCollected.xnb

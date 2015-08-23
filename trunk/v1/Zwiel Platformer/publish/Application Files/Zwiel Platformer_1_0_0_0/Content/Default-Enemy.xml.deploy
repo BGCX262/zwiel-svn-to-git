@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<enemies>
+  <enemy name="Barbarian" spriteSet="MonsterA" health="10" points="50" damage="10" />
+  <enemy name="Pygmy" spriteSet="MonsterB" health="20" points="125" damage="20" />
+  <enemy name="Zombie" spriteSet="MonsterC" health="30" points="250" damage="34" />
+  <enemy name="Skeleton" spriteSet="MonsterD" health="50" points="500" damage="50" />
+</enemies>

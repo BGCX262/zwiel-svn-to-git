@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile collision='Passable'>
+  <texture chance='1'>MossyGreen/BlockB0</texture>
+  <texture chance='1'>MossyGreen/BlockB1</texture>
+</tile>

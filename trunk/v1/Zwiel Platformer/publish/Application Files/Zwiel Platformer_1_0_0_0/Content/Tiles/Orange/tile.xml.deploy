@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile collision='Impassable'>
+  <texture chance='1'>Orange/BlockA0</texture>
+  <texture chance='1'>Orange/BlockA1</texture>
+  <texture chance='1'>Orange/BlockA2</texture>
+  <texture chance='1'>Orange/BlockA3</texture>
+  <texture chance='1'>Orange/BlockA4</texture>
+  <texture chance='1'>Orange/BlockA5</texture>
+  <texture chance='1'>Orange/BlockA6</texture>
+</tile>

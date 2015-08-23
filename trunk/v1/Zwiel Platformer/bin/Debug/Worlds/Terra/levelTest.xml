@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<level width="20" time="60" height="15" name="Test">
+  <tile location="1-14" type="Orange" />
+  <tile location="5-14" type="Orange" />
+  <gem location="5-13"/>
+  <gem location="4-12"/>
+  <gem location="3-11"/>
+  <gem location="2-12"/>
+  <gem location="1-13"/>
+  <playerStart chance="1" location="1-10"/>
+  <exit goTo="Terra/Level Plaintext.txt" location="5-13" />
+</level>

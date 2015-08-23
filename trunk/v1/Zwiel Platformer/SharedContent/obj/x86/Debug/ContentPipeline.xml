@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\ExitReached.wma</Source>
+      <Name>Sounds\ExitReached</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GemCollected.wma</Source>
+      <Name>Sounds\GemCollected</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music.wma</Source>
+      <Name>Sounds\Music</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Music.xnb</Output>
+      <Extra>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Music.wma</Extra>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.wma</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wma</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.wma</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MonsterKilled.wma</Source>
+      <Name>Sounds\MonsterKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\MonsterKilled.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Heal.wav</Source>
+      <Name>Sounds\Heal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Heal.xnb</Output>
+      <Time>2010-03-28T13:28:41.7163053-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\1.wav</Source>
+      <Name>Sounds\Hurt\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\1.xnb</Output>
+      <Time>2010-03-28T13:37:59.6772188-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\3.wav</Source>
+      <Name>Sounds\Hurt\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\3.xnb</Output>
+      <Time>2010-03-28T13:37:59.681219-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\4.wav</Source>
+      <Name>Sounds\Hurt\4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\4.xnb</Output>
+      <Time>2010-03-28T13:37:59.6842192-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\5.wav</Source>
+      <Name>Sounds\Hurt\5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\5.xnb</Output>
+      <Time>2010-03-28T13:37:59.6872194-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\6.wav</Source>
+      <Name>Sounds\Hurt\6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\6.xnb</Output>
+      <Time>2010-03-28T13:37:59.6892195-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\0.wav</Source>
+      <Name>Sounds\Hurt\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\0.xnb</Output>
+      <Time>2010-03-28T13:37:59.6742186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hurt\7.wav</Source>
+      <Name>Sounds\Hurt\7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\Hurt\7.xnb</Output>
+      <Time>2010-03-28T13:37:59.6702184-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TimeBonusCollected.wma</Source>
+      <Name>Sounds\TimeBonusCollected</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sounds\TimeBonusCollected.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\SharedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\SharedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-25T17:10:10.5450139-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

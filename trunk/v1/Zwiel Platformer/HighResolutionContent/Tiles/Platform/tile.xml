@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile collision='Platform'>
+  <texture chance='0'>Platform/Platform</texture>
+</tile>

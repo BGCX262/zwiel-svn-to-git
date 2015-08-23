@@ -1,0 +1,69 @@
+#summary How to play the game, and how to be good at the game
+#labels Featured
+
+= Controls =
+The controls are simple:
+
+Left Arrow Key: Move left
+
+Right Arrow Key: Move right
+
+Up Arrow Key: Jump
+
+Spacebar: Throw spear. However, throwing spears also costs you 100 valuable points.
+
+= Goals =
+You beat a level by reaching the exit. Sounds easy, right? WRONG. Many levels feature traps, enemies, and other obstacles before your rakish adventurer can reach that little brown sign.
+You can also compete with your friends by trying to achieve the highest score possible. 
+
+= Items =
+Items are found in the game as gems, health packs, and time bonuses. Generally, they all reward you with a bonus of some sort, be it points, health, or time.
+
+http://zwiel.googlecode.com/files/Gem.png
+This enticingly bobbing item is a gem. Pick it up if you want some more points, and if you have enough time.
+
+http://zwiel.googlecode.com/files/health.png
+The Red Cross's logo? No, it's the health pack, which, oddly enough, gives you health when picked up. It comes in different colors; the most important thing to know about them, though, is that the purple health pack is poisoned, rather than beneficial!
+
+http://zwiel.googlecode.com/files/timeBonus.png
+This hourglass is a item called a time bonus. They give you 15 seconds of extra time when picked up.
+
+= Tiles =
+http://zwiel.googlecode.com/files/Platform.png
+This is the platform tile. You can jump on it, and you can jump through it.
+
+http://zwiel.googlecode.com/files/BlockA0.png
+This is the impassable tile; you can jump on it, but jumping at it will do nothing.
+
+http://zwiel.googlecode.com/files/BlockB0.png
+This is a floating platform tile; it acts exactly the same way as a platform.
+
+http://zwiel.googlecode.com/files/BlockB0.png
+And this is the trick tile. It looks like the floating platform tile, but you can't stand on it - but, neither can your enemies. Pay attention to when the enemies turn around!
+
+= Enemies =
+There are 4 kinds of enemies in Zwiel.
+
+http://zwiel.googlecode.com/files/barbarian.png
+The weakest of your foes is the barbarian. He can be slain with one spear, and deals 10 damage. Slaying him will reward you with 50 points.
+
+http://zwiel.googlecode.com/files/pygmy.png
+Another obstacle to your goal is the pygmy. He is vulnerable to 2 spears, but does 20 damage on contact. His death will further your score by 125 points.
+
+http://zwiel.googlecode.com/files/mummy.png
+The second greatest of the enemies, the zombie takes 3 spears to slay and does 35 damage - more than a third of your initial health. However, killing this creature will increase your score by 250 points.
+
+http://zwiel.googlecode.com/files/skeleton.png
+The most formidable of the enemies, the skeleton requires 5 spears to be slain. While he does 50 damage, he also rewards you with 500 points upon his demise.
+
+= Traps =
+Unfortunately, life is not so simple as merely jumping around and avoiding enemies. It seems the natives of the places you wander through planted clever traps in their land!
+
+http://zwiel.googlecode.com/files/Static.png
+This is the most basic of traps, the static trap, and easy to avoid. It's spinning spikes deal 20 damage to you should you accidentally collide with it.
+
+http://zwiel.googlecode.com/files/Rising.png
+This is another simple trap - a rising trap. It regularly ascends from tiles, only to sink down again beneath its hiding place. It's brother, the falling trap, does the same thing from the tiles above you, but descends rather than rising. Don't touch them! It'll cost you 10 health if you do.
+
+http://zwiel.googlecode.com/files/Shooting.png
+Meet their evil uncle: the shooting trap. The most dangerous of the trap family, it shoots darts either left or right, depending on its orientation. Though you can run through it with impunity, those darts it regularly fires deal 20 damage to you - as much as the static trap! Unfortunately, they are not as easy to spot and avoid.

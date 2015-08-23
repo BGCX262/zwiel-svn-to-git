@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Exit.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Celebrate.png</Source>
+      <Name>Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Idle.png</Source>
+      <Name>Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Run.png</Source>
+      <Name>Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Idle.png</Source>
+      <Name>Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Run.png</Source>
+      <Name>Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Idle.png</Source>
+      <Name>Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Run.png</Source>
+      <Name>Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Idle.png</Source>
+      <Name>Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Run.png</Source>
+      <Name>Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_0.png</Source>
+      <Name>Backgrounds\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_1.png</Source>
+      <Name>Backgrounds\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_2.png</Source>
+      <Name>Backgrounds\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_0.png</Source>
+      <Name>Backgrounds\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_1.png</Source>
+      <Name>Backgrounds\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_2.png</Source>
+      <Name>Backgrounds\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_died.png</Source>
+      <Name>Overlays\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Overlays\you_died.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_lose.png</Source>
+      <Name>Overlays\you_lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Overlays\you_lose.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_win.png</Source>
+      <Name>Overlays\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Overlays\you_win.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Die.png</Source>
+      <Name>Sprites\MonsterA\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Die.png</Source>
+      <Name>Sprites\MonsterB\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Die.png</Source>
+      <Name>Sprites\MonsterC\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Die.png</Source>
+      <Name>Sprites\MonsterD\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\MonsterD\Die.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2009-05-14T10:57:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Gem.png</Source>
+      <Name>Misc\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\Gem.xnb</Output>
+      <Time>2010-03-25T21:32:36.0110651-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\projectile.png</Source>
+      <Name>Misc\projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\projectile.xnb</Output>
+      <Time>2010-03-30T20:50:22.7353133-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA0.png</Source>
+      <Name>Tiles\Orange\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA0.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA1.png</Source>
+      <Name>Tiles\Orange\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA1.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA2.png</Source>
+      <Name>Tiles\Orange\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA2.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA3.png</Source>
+      <Name>Tiles\Orange\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA3.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA4.png</Source>
+      <Name>Tiles\Orange\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA4.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA5.png</Source>
+      <Name>Tiles\Orange\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA5.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Orange\BlockA6.png</Source>
+      <Name>Tiles\Orange\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Orange\BlockA6.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\MossyGreen\BlockB0.png</Source>
+      <Name>Tiles\MossyGreen\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\MossyGreen\BlockB0.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\MossyGreen\BlockB1.png</Source>
+      <Name>Tiles\MossyGreen\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\MossyGreen\BlockB1.xnb</Output>
+      <Time>2009-05-14T10:57:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform\Platform.png</Source>
+      <Name>Tiles\Platform\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Tiles\Platform\Platform.xnb</Output>
+      <Time>2009-05-14T10:57:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HudLarge.spritefont</Source>
+      <Name>Fonts\HudLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Fonts\HudLarge.xnb</Output>
+      <Time>2010-03-27T17:42:40.4013124-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Shield.png</Source>
+      <Name>Sprites\Player\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\Shield.xnb</Output>
+      <Time>2010-03-23T19:12:00.54653-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\playerHealthBar.png</Source>
+      <Name>Misc\playerHealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\playerHealthBar.xnb</Output>
+      <Time>2010-03-28T15:00:52.7236608-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\playerHealthBarFill.png</Source>
+      <Name>Misc\playerHealthBarFill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\playerHealthBarFill.xnb</Output>
+      <Time>2010-03-28T15:01:33.7180055-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Traps\Static.png</Source>
+      <Name>Traps\Static</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Traps\Static.xnb</Output>
+      <Time>2010-03-28T18:34:39.193902-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\heal.png</Source>
+      <Name>Sprites\Player\heal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Sprites\Player\heal.xnb</Output>
+      <Time>2010-03-28T13:11:29.3172554-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\enemyHealthBar.png</Source>
+      <Name>Misc\enemyHealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\enemyHealthBar.xnb</Output>
+      <Time>2010-03-28T15:12:09.3083592-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\enemyHealthBarFill.png</Source>
+      <Name>Misc\enemyHealthBarFill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\enemyHealthBarFill.xnb</Output>
+      <Time>2010-03-28T15:16:08.2810277-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Traps\Rising.png</Source>
+      <Name>Traps\Rising</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Traps\Rising.xnb</Output>
+      <Time>2010-03-28T18:33:28.5828633-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\timeBonus.png</Source>
+      <Name>Misc\timeBonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\timeBonus.xnb</Output>
+      <Time>2010-03-30T18:29:53.1840982-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\health.png</Source>
+      <Name>Misc\health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\health.xnb</Output>
+      <Time>2010-03-30T19:11:22.9695057-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Dart.png</Source>
+      <Name>Misc\Dart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Misc\Dart.xnb</Output>
+      <Time>2010-03-30T20:46:03.0624608-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Traps\Shooting.png</Source>
+      <Name>Traps\Shooting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\Traps\Shooting.xnb</Output>
+      <Time>2010-03-30T20:24:19.2938895-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\HighResolutionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\HighResolutionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer\Zwiel Platformer\bin\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-25T17:10:10.5450139-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

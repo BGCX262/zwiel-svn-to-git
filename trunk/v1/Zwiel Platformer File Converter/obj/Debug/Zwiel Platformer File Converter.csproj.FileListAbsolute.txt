@@ -1,0 +1,16 @@
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\bin\Debug\Zwiel Platformer File Converter.exe
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\bin\Debug\Zwiel Platformer File Converter.pdb
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\Zwiel_Platformer_File_Converter.Converter.resources
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\Zwiel_Platformer_File_Converter.Properties.Resources.resources
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.csproj.GenerateResource.Cache
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.exe
+C:\Users\Gurwinder\AppData\Local\Temporary Projects\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.pdb
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.exe
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.pdb
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\bin\Debug\Zwiel Platformer File Converter.exe
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\bin\Debug\Zwiel Platformer File Converter.pdb
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\Zwiel_Platformer_File_Converter.Converter.resources
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\Zwiel_Platformer_File_Converter.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\XNA\Zwiel Platformer File Converter\Zwiel Platformer File Converter\obj\Debug\Zwiel Platformer File Converter.csproj.GenerateResource.Cache
